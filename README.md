@@ -1,4 +1,4 @@
-# Hi, I'm Krystel Salazar 👋
+# Hi, I'm Krystel Salazar
 
 Systems Engineering student interested in **web development, modern interfaces, and well-designed technological solutions**.
 
@@ -6,7 +6,7 @@ Currently looking for **professional internship opportunities** in software deve
 
 ---
 
-# Hola, soy Krystel Salazar 👋
+# Hola, soy Krystel Salazar 
 
 Estudiante de **Ingeniería en Sistemas** interesada en el desarrollo web, interfaces modernas y soluciones tecnológicas bien diseñadas.
 
@@ -56,5 +56,5 @@ https://www.linkedin.com/in/krystel-salazar/
 Portfolio  
 https://portafolio-krystel-salazar-nine.vercel.app/
 
-✉ Email  
+Email  
 krisachava@gmail.com
