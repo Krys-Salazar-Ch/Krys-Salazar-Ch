@@ -1,6 +1,6 @@
 # Hi, I'm Krystel Salazar
 
-Systems Engineering student interested in **web development, modern interfaces, and well-designed technological solutions**.
+Systems Engineering student interested in software development, technology-driven solutions and building well-structured digital systems.
 
 Currently looking for **professional internship opportunities** in software development.
 
@@ -8,7 +8,7 @@ Currently looking for **professional internship opportunities** in software deve
 
 # Hola, soy Krystel Salazar 
 
-Estudiante de **Ingeniería en Sistemas** interesada en el desarrollo web, interfaces modernas y soluciones tecnológicas bien diseñadas.
+Estudiante de Ingeniería en Sistemas interesada en el desarrollo de software, soluciones tecnológicas y la construcción de sistemas digitales bien estructurados.
 
 Actualmente en búsqueda de **oportunidades de práctica profesional** en desarrollo de software.
 
@@ -28,9 +28,9 @@ Actualmente en búsqueda de **oportunidades de práctica profesional** en desarr
 ## Featured Projects / Proyectos Destacados
 
 ### Administrative Budget System
-Administrative web application for managing income and financial projections.
+Administrative web platform developed for the Cámara de Ganaderos de Hojancha to manage institutional operations, members, volunteer programs, financial data and internal resources through a centralized digital system.
 
-Aplicación web administrativa para la gestión de ingresos y proyecciones financieras.
+Plataforma web administrativa desarrollada para la Cámara de Ganaderos de Hojancha que permite gestionar operaciones institucionales, asociados, programas de voluntariado, información financiera y recursos internos a través de un sistema digital centralizado.
 
 ---
 
