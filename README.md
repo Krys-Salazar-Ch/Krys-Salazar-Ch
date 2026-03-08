@@ -27,7 +27,7 @@ Actualmente en búsqueda de **oportunidades de práctica profesional** en desarr
 
 ## Featured Projects / Proyectos Destacados
 
-### Administrative Budget System
+### Administrative System
 Administrative web platform developed for the Cámara de Ganaderos de Hojancha to manage institutional operations, members, volunteer programs, financial data and internal resources through a centralized digital system.
 
 Plataforma web administrativa desarrollada para la Cámara de Ganaderos de Hojancha que permite gestionar operaciones institucionales, asociados, programas de voluntariado, información financiera y recursos internos a través de un sistema digital centralizado.
