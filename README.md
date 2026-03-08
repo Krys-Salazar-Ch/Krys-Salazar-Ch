@@ -14,8 +14,7 @@ Actualmente en búsqueda de **oportunidades de práctica profesional** en desarr
 
 ---
 
-## 🚀 Tech Stack / Tecnologías
-
+## Tech Stack / Tecnologías
 
 <p align="center">
 
@@ -32,6 +31,7 @@ Actualmente en búsqueda de **oportunidades de práctica profesional** en desarr
 
 </p>
 
+---
 
 ## Featured Projects / Proyectos Destacados
 
