@@ -14,16 +14,24 @@ Actualmente en búsqueda de **oportunidades de práctica profesional** en desarr
 
 ---
 
-## Tech Stack / Tecnologías
+## 🚀 Tech Stack / Tecnologías
 
-- React  
-- TypeScript  
-- Tailwind CSS  
-- JavaScript  
-- NestJS  
-- MySQL  
 
----
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+<img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
+</p>
+
 
 ## Featured Projects / Proyectos Destacados
 
